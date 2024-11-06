@@ -81,7 +81,8 @@ min-height: 300px;
 .header-bottom .container{
 
    background-color: #ee82ee;
-   min-height: 200px;
+   min-height: 300px;
+   max-width: 50%;
    border: 1px dashed black;
 
 
@@ -307,9 +308,11 @@ display: flex;
         .footer-bottom .logo{
         
             text-align: right;
+            justify-content: right;
         }
         
         .footer-bottom .bottone {
 
             text-align: left;
+            justify-content: left;
         }
