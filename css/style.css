@@ -316,3 +316,11 @@ display: flex;
             text-align: left;
             justify-content: left;
         }
+
+        .footer-top .container .column{
+
+            background-color: #20b2aa;
+            min-height: 200px;
+            max-width: 50%;
+            border: 1px dashed black;
+        }
